@@ -2,4 +2,4 @@
 
 Hello World!
 
-Toasty here, mkaing a start on repositories in general
+Toasty here, making a start on repositories in general
